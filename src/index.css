@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+body {
+    margin: 0;
+    padding:0;
+    font-family: "Open Sans", sans-serif;
+}
+
+ #preview {
+  background: transparent
+    url('https://ej2.syncfusion.com/react/demos/src/color-picker/images/pen.png')
+    no-repeat;
+  display: inline-block;
+  height: 80px;
+  margin: 10px 0;
+  min-width: 300px;
+  max-width: 600px;
+  background-color: #008000;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
