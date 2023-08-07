@@ -1,4 +1,4 @@
-# <a href="https://admin-dashboard-r.vercel.app/">SHOPPY</a>
+# <a href="https://admin-dash-red.vercel.app/">AdminEdge</a>
 
 ### `Admin Dashboard.`
 <br>
@@ -7,11 +7,6 @@
 <br>
 <img src ="readme_assets/admin_dark.png"></img>
 
-<!-- <a href="https://www.youtube.com/watch?v=rJpA7ulK2rQ" target="_blank" >
- <img src = "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"><img/>
-</a> -->
-
-<!-- <br> -->
 
 <hr>
 <hr>
@@ -48,7 +43,7 @@ The Apps included in this application are `Calendar`, `Kanban board`, `Editor`, 
 ### Clone the repo.
 
 ```
-git clone https://github.com/${GitHub Username}/admin_dashboard.git
+git clone https://github.com/${GitHub Username}/AdminEdge.git
 ```
 
 <br>
@@ -56,7 +51,7 @@ git clone https://github.com/${GitHub Username}/admin_dashboard.git
 ### Open Terminal on the Folder
 
 ```
-cd admin_dashboard
+cd AdminEdge
 ```
 
 <br>
